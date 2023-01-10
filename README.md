@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-hpm0qDLhie]
+- Live Site URL: [https://stately-empanada-3aaef2.netlify.app/]
 
 
 
@@ -43,6 +43,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Sumajestad44](https://github.com/sumajestad44)
+- Frontend Mentor - [@sumajestad44](https://www.frontendmentor.io/profile/sumajestad44)
 

@@ -82,6 +82,9 @@ body {
 .dividers .mobile-image{
   display: none;
 }
+.attribution{
+  margin: 20px;
+}
 
 
 
