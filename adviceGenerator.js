@@ -10,7 +10,7 @@ async function getRandomAdvice() {
     return data.slip;
     
   }
-  
+  updateAdvice();
 
 async function updateAdvice(){
   const {id, advice} = await getRandomAdvice();
